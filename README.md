@@ -1,15 +1,14 @@
-# C++ Practice
+# Hi, I'm Vishal Gupta 👋
 
-This repository contains my C++ learning journey.
+🎓 B.Tech CSE Student at United University Prayagraj
 
-## Topics
-- Basic Programs
-- Loops
-- Arrays
-- Functions
-- OOPs
+💻 Currently Learning:
+- C++
+- Git & GitHub
 - Data Structures & Algorithms
 
-## Author
-Vishal Gupta
-B.Tech CSE, United University Prayagraj
+🚀 Goal:
+To become a skilled Software Developer.
+
+## My Projects
+- cpp-practice
