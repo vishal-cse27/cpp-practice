@@ -1,14 +1,10 @@
-# Hi, I'm Vishal Gupta 👋
+# DSA Practice
 
-🎓 B.Tech CSE Student at United University Prayagraj
+This repository contains my Data Structures and Algorithms solutions.
 
-💻 Currently Learning:
-- C++
-- Git & GitHub
-- Data Structures & Algorithms
-
-🚀 Goal:
-To become a skilled Software Developer.
-
-## My Projects
-- cpp-practice
+## Topics
+- Arrays
+- Strings
+- Searching
+- Sorting
+- Recursion
